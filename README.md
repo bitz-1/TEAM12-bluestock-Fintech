@@ -1,12 +1,12 @@
 ## IPO Management System
 
-The **BlueStock IPO Management System** is designed for listing IPOs with full CRUD (Create, Read, Update, Delete) operations.
+The **BlueStock IPO Management System** is designed for listing IPOs with full CRUD operations.
 
 The project is divided into two applications that need to be run individually on different servers:
 
 ```bash
-TEAM_12@bluestock-Fintech\backend  # Backend application directory
-TEAM_12@bluestock-Fintech\client   # Client application directory
+TEAM_12-bluestock-Fintech\backend  # Backend application directory
+TEAM_12-bluestock-Fintech\client   # Client application directory
 ```
 
 ---
