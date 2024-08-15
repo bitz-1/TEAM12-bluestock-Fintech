@@ -9,6 +9,10 @@ TEAM_12-bluestock-Fintech\backend  # Backend application directory
 TEAM_12-bluestock-Fintech\client   # Client application directory
 ```
 
+## Technology Stack
+
+- **Backend:** Django, Django REST Framework, PostgreSQL, JWT Authentication
+- **Frontend:** Bootstrap
 ---
 
 To include instructions on how to clone the project in your documentation, you can add a section like this:
