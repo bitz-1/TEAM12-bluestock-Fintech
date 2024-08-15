@@ -155,10 +155,10 @@ This project is licensed under the Bluestock Fintech License. For more details, 
 ---
 ## Screenshots 
 ### Admin Dashboard
-![Admin Dashboard](screens/admin.jpg)
+![Admin Dashboard](screens/admiin.jpg)
 ### Ipo Manage 
 ![IPO management](screens/ipomanage.jpg)
-![IPO management](screens/ipomanage2.jpg)
+![IPO management](screens/ipomange2.jpg)
 
 ### login 
 ![login](screens/login.jpg)
