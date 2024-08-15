@@ -11,6 +11,19 @@ TEAM_12@bluestock-Fintech\client   # Client application directory
 
 ---
 
+To include instructions on how to clone the project in your documentation, you can add a section like this:
+
+---
+
+## Clone This Project
+
+To get a copy of this project up and running on your local machine, follow these steps:
+
+## Clone the Repository
+
+```bash
+git clone https://github.com/bitz-1/TEAM12-bluestock-Fintech.git
+```
 ## Installation
 
 ### Step 1: Create Virtual Environments
@@ -19,11 +32,11 @@ First, create virtual environments for both the backend and client in their resp
 
 ```bash
 # For Backend
-cd TEAM_12@bluestock-Fintech\backend
+cd TEAM_12-bluestock-Fintech\backend
 python -m venv v-backend
 
 # For Client
-cd TEAM_12@bluestock-Fintech\client
+cd TEAM_12-bluestock-Fintech\client
 python -m venv v-client
 ```
 
@@ -34,14 +47,14 @@ Next, activate the virtual environments in separate terminal windows:
 **For Backend:**
 
 ```bash
-cd TEAM_12@bluestock-Fintech\backend\v-backend\Scripts
+cd TEAM_12-bluestock-Fintech\backend\v-backend\Scripts
 .\activate
 ```
 
 **For Client:**
 
 ```bash
-cd TEAM_12@bluestock-Fintech\client\v-client\Scripts
+cd TEAM_12-bluestock-Fintech\client\v-client\Scripts
 .\activate
 ```
 
@@ -50,7 +63,7 @@ cd TEAM_12@bluestock-Fintech\client\v-client\Scripts
 Once the backend virtual environment (`v-backend`) is activated, install the backend dependencies:
 
 ```bash
-cd TEAM_12@bluestock-Fintech\backend\bluestock-ipo-rest-api-master 2\
+cd TEAM_12-bluestock-Fintech\backend\bluestock-ipo-rest-api-master 2\
 pip install -r requirements.txt
 ```
 
@@ -108,7 +121,7 @@ For more details, visit the [API Documentation](https://github.com/bitz-1/bluest
 Once the client virtual environment (`v-client`) is activated, install the client dependencies:
 
 ```bash
-cd TEAM_12@bluestock-Fintech\client\client\Team12 db exp 2\
+cd TEAM_12-bluestock-Fintech\client\client\Team12 db exp 2\
 pip install -r requirements.txt
 ```
 
