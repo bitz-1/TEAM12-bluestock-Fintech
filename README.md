@@ -168,9 +168,8 @@ This project is licensed under the Bluestock Fintech License. For more details, 
 
 ### Forgot Password
 
-![Forgot Password](screens/forgetpassword.jpg)
-### Forgot Password
-![Forgot Password](screens/forgetpassword.jpg)
+![Forgot Password](screens/forgetpsssw.jpg)
+
 
 ### IPO Listing
 ![IPO Listing](screens/getipo.jpg)
