@@ -15,9 +15,6 @@ TEAM_12-bluestock-Fintech\client   # Client application directory
 - **Frontend:** Bootstrap
 ---
 
-To include instructions on how to clone the project in your documentation, you can add a section like this:
-
----
 
 ## Clone This Project
 
